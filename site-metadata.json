@@ -28,7 +28,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/DIRECTECH_logo.png"
+        "logo": "images/DIRECTECH_logo.png",
+        "logo_alt": "Directech Canada inc. "
     },
     "footer": {
         "has_nav": true,
