@@ -69,7 +69,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Antivirus
+    title: Why your Antivirus is not enough
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
