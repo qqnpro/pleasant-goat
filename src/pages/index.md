@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Managed Security Software Stack
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "We're working hard to make your life easier...\_ Future proofing your IT does not get in the way of your business operations.."
     actions:
       - label: Learn More
         url: /features
