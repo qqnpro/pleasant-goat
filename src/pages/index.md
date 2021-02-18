@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Cybersecurity for SMBs
-    subtitle: "We're working hard to make your life easier...\_ Protecting your IT against online threats is now mission critical to small business owners as attackers know SMB's are most often easy targets."
+    subtitle: "We're working hard to make your life easier...\_ Protecting your IT against online threats is now mission critical to small business owners as attackers know SMBs are most often easy targets."
     actions:
       - label: Learn More
         url: /features
