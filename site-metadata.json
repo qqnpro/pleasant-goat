@@ -23,7 +23,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Sign In",
                 "url": "/contact",
                 "style": "primary"
             }
