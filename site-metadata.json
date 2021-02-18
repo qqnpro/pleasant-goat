@@ -3,7 +3,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "Mission",
                 "url": "/features",
                 "style": "link"
             },
