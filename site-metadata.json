@@ -23,7 +23,7 @@
                 "style": "link"
             },
             {
-                "label": "Member ",
+                "label": "Member Login",
                 "url": "/contact",
                 "style": "primary"
             }
