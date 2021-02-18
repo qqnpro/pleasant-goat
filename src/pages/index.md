@@ -70,9 +70,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Why your Antivirus is not enough
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Long gone are the days where antivirus software used to save the day.
     actions:
       - label: Learn More
         url: /features
