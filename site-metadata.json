@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/DIRECTECH_logo.png"
     },
     "footer": {
         "has_nav": true,
