@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Managed Security Software Stack
-    subtitle: "We're working hard to make your life easier...\_ Future proofing your IT does not get in the way of your business operations.."
+    subtitle: "We're working hard to make your life easier...\_ Protecting your IT against online threats is now mission critical to small business owners as\_ not get in the way of your business operations.."
     actions:
       - label: Learn More
         url: /features
