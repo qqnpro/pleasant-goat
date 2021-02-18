@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Cyber Security the Small Business Way
+    title: Cybersecurity for SMBs
     subtitle: "We're working hard to make your life easier...\_ Protecting your IT against online threats is now mission critical to small business owners as attackers know SMB's are most often easy targets."
     actions:
       - label: Learn More
